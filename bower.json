@@ -1,0 +1,14 @@
+{
+  "name": "at-bs-starter",
+  "description": "Auftakt Bootstrap Starter",
+  "main": "index.js",
+  "authors": [
+    "Matthias Max"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/bitflower/bf-h5bp-bootstrap-starter",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
